@@ -1,9 +1,17 @@
 # Leetcode solutions in Python
 
+Hi there, as scheduled, I should do one question daily. However, recently I took a new job role, and it is f***ing stressing, and basically I am always overloaded. So the update of this repository may be delayed, but I promise that I will keep updating it.
+
+A warm reminder for everybody:
+
+    Never engage into a hectic job, as it could drastically deteriorate your life, unless you are a workaholic.
+
+    Best wishes for all of us! Keep healthy and stay safe!
+
 Features:
 
 ✅ Clear explanation<br>
-✅ time complexity and space complexity<br>
+✅ Time complexity and space complexity<br>
 ✅ Some problems may include more than one solution
 
 Actively being updated. STAY TUNED!

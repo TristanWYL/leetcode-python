@@ -20,6 +20,7 @@ Actively being updated. STAY TUNED!
 
 | # | Title | Categories | Difficulty|
 | --------- | ------- |------- |------- |
+| 5 | [Longest Palindromic Substring](algorithms/0005.md) | dp | Medium|
 | 295 | [Find Median from Data Stream](algorithms/0295-Find-Median-from-Data-Stream.md) | heap | Hard|
 | 475 | [Heaters](algorithms/0475.md) | bisection | Medium|
 | 857 | [Minimum Cost to Hire K Workers](algorithms/0857-Minimum-Cost-to-Hire-K-Workers.md) | heap | Hard|

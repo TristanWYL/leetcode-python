@@ -24,6 +24,7 @@ Actively being updated. STAY TUNED!
 | 10 | [Regular Expression Matching](algorithms/0010.md) | dp | Hard|
 | 295 | [Find Median from Data Stream](algorithms/0295-Find-Median-from-Data-Stream.md) | heap | Hard|
 | 475 | [Heaters](algorithms/0475.md) | bisection | Medium|
+| 509 | [Fibonacci Number](algorithms/0509.md) | iteration | easy|
 | 857 | [Minimum Cost to Hire K Workers](algorithms/0857-Minimum-Cost-to-Hire-K-Workers.md) | heap | Hard|
 | 875 | [Koko Eating Bananas](algorithms/0875.md) | bisection | Medium|
 | 719 | [Find K-th Smallest Pair Distance](algorithms/0719.md) | bisection | Hard|

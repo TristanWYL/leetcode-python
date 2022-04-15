@@ -26,7 +26,7 @@ Actively being updated. STAY TUNED!
 | 322 | [Coin Change](algorithms/0322.md) | dp | Medium |
 | 475 | [Heaters](algorithms/0475.md) | bisection | Medium|
 | 509 | [Fibonacci Number](algorithms/0509.md) | iteration | easy|
+| 719 | [Find K-th Smallest Pair Distance](algorithms/0719.md) | bisection | Hard|
 | 857 | [Minimum Cost to Hire K Workers](algorithms/0857-Minimum-Cost-to-Hire-K-Workers.md) | heap | Hard|
 | 875 | [Koko Eating Bananas](algorithms/0875.md) | bisection | Medium|
-| 719 | [Find K-th Smallest Pair Distance](algorithms/0719.md) | bisection | Hard|
 |1439 | [Find the Kth Smallest Sum of a Matrix With Sorted Rows](algorithms/1439.md) | heap | Hard|

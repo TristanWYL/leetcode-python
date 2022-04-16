@@ -17,6 +17,7 @@ Actively being updated. STAY TUNED!
 | 295 | [Find Median from Data Stream](algorithms/0295-Find-Median-from-Data-Stream.md) | heap | Hard|
 | 300 | [Longest Increasing Subsequence](algorithms/0300.md) | dp | Medium |
 | 322 | [Coin Change](algorithms/0322.md) | dp | Medium |
+| 354 | [Russian Doll Envelopes](algorithms/0354.md) | dp | Hard |
 | 475 | [Heaters](algorithms/0475.md) | bisection | Medium|
 | 509 | [Fibonacci Number](algorithms/0509.md) | iteration | easy|
 | 719 | [Find K-th Smallest Pair Distance](algorithms/0719.md) | bisection | Hard|

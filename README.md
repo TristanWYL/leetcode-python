@@ -19,6 +19,7 @@ Actively being updated. STAY TUNED!
 | 322 | [Coin Change](algorithms/0322.md) | dp | Medium |
 | 354 | [Russian Doll Envelopes](algorithms/0354.md) | dp | Hard |
 | 475 | [Heaters](algorithms/0475.md) | bisection | Medium|
+| 494 | [Target Sum](algorithms/04494.md) | backtrack<br>dp | Medium|
 | 509 | [Fibonacci Number](algorithms/0509.md) | iteration | easy|
 | 719 | [Find K-th Smallest Pair Distance](algorithms/0719.md) | bisection | Hard|
 | 857 | [Minimum Cost to Hire K Workers](algorithms/0857.md) | heap | Hard|

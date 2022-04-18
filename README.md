@@ -26,6 +26,7 @@ Actively being updated. STAY TUNED!
 | 475 | [Heaters](algorithms/0475.md) | bisection | Medium|
 | 494 | [Target Sum](algorithms/0494.md) | backtrack<br>dp | Medium|
 | 509 | [Fibonacci Number](algorithms/0509.md) | iteration | easy|
+| 563 | [Binary Tree Tilt](algorithms/0563.md) | binary tree | Easy |
 | 719 | [Find K-th Smallest Pair Distance](algorithms/0719.md) | bisection | Hard|
 | 857 | [Minimum Cost to Hire K Workers](algorithms/0857.md) | heap | Hard|
 | 875 | [Koko Eating Bananas](algorithms/0875.md) | bisection | Medium|

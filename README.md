@@ -16,6 +16,7 @@ Actively being updated. STAY TUNED!
 | 10 | [Regular Expression Matching](algorithms/0010.md) | dp | Hard|
 | 100 | [Same Tree](algorithms/0100.md) | binary tree | Easy |
 | 101 | [Symmetric Tree](algorithms/0101.md) | binary tree | Easy |
+| 110 | [Balanced Binary Tree](algorithms/0110.md) | binary tree | Easy |
 | 295 | [Find Median from Data Stream](algorithms/0295.md) | heap | Hard|
 | 300 | [Longest Increasing Subsequence](algorithms/0300.md) | dp | Medium |
 | 322 | [Coin Change](algorithms/0322.md) | dp | Medium |

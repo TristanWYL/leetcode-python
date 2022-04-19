@@ -17,6 +17,7 @@ Actively being updated. STAY TUNED!
 | 100 | [Same Tree](algorithms/0100.md) | binary tree | Easy |
 | 101 | [Symmetric Tree](algorithms/0101.md) | binary tree | Easy |
 | 110 | [Balanced Binary Tree](algorithms/0110.md) | binary tree | Easy |
+| 141 | [Linked List Cycle](algorithms/0141.md) | linked list | Easy |
 | 226 | [Invert Binary Tree](algorithms/0226.md) | binary tree | Easy |
 | 257 | [Binary Tree Paths](algorithms/0257.md) | binary tree | Easy |
 | 295 | [Find Median from Data Stream](algorithms/0295.md) | heap | Hard|

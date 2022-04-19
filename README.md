@@ -31,6 +31,7 @@ Actively being updated. STAY TUNED!
 | 509 | [Fibonacci Number](algorithms/0509.md) | iteration | easy |
 | 563 | [Binary Tree Tilt](algorithms/0563.md) | binary tree | Easy |
 | 654 | [Maximum Binary Tree](algorithms/0654.md) | binary tree | Medium |
+| 707 | [Design Linked List](algorithms/0707.md) | linked list | Medium |
 | 719 | [Find K-th Smallest Pair Distance](algorithms/0719.md) | bisection | Hard |
 | 817 | [Linked List Components](algorithms/0817.md) | linked list | Medium |
 | 857 | [Minimum Cost to Hire K Workers](algorithms/0857.md) | heap | Hard |

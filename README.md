@@ -17,6 +17,7 @@ Actively being updated. STAY TUNED!
 | 100 | [Same Tree](algorithms/0100.md) | binary tree | Easy |
 | 101 | [Symmetric Tree](algorithms/0101.md) | binary tree | Easy |
 | 110 | [Balanced Binary Tree](algorithms/0110.md) | binary tree | Easy |
+| 121 | [Best Time to Buy and Sell Stock](algorithms/0121.md) | dp | Easy |
 | 141 | [Linked List Cycle](algorithms/0141.md) | linked list | Easy |
 | 206 | [Reverse Linked List](algorithms/0206.md) | linked list | Easy |
 | 226 | [Invert Binary Tree](algorithms/0226.md) | binary tree | Easy |
@@ -28,7 +29,7 @@ Actively being updated. STAY TUNED!
 | 354 | [Russian Doll Envelopes](algorithms/0354.md) | dp | Hard |
 | 475 | [Heaters](algorithms/0475.md) | bisection | Medium |
 | 494 | [Target Sum](algorithms/0494.md) | backtrack<br>dp | Medium |
-| 509 | [Fibonacci Number](algorithms/0509.md) | iteration | easy |
+| 509 | [Fibonacci Number](algorithms/0509.md) | iteration | Easy |
 | 563 | [Binary Tree Tilt](algorithms/0563.md) | binary tree | Easy |
 | 654 | [Maximum Binary Tree](algorithms/0654.md) | binary tree | Medium |
 | 707 | [Design Linked List](algorithms/0707.md) | linked list | Medium |

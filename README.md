@@ -41,5 +41,6 @@ Actively being updated. STAY TUNED!
 | 875 | [Koko Eating Bananas](algorithms/0875.md) | bisection | Medium |
 | 931 | [Minimum Falling Path Sum](algorithms/0931.md) | dp | Medium |
 | 965 | [Univalued Binary Tree](algorithms/0965.md) | binary tree | Easy |
+| 968 | [Binary Tree Cameras](algorithms/0968.md) | binary tree | Hard |
 | 1439 | [Find the Kth Smallest Sum of a Matrix With Sorted Rows](algorithms/1439.md) | heap | Hard|
 | 1449 | [Form Largest Integer With Digits That Add up to Target](algorithms/1449.md) | dp | Hard|

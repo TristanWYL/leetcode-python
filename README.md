@@ -14,6 +14,7 @@ Actively being updated. STAY TUNED!
 | --------- | ------- |------- |------- |
 | 1 | [Two Sum](algorithms/0001.md) | iteration and dict | Easy |
 | 5 | [Longest Palindromic Substring](algorithms/0005.md) | dp | Medium |
+| 9 | [Palindrome Number](algorithms/0009.md) | n/a | Easy |
 | 10 | [Regular Expression Matching](algorithms/0010.md) | dp | Hard |
 | 92 | [Reverse Linked List II](algorithms/0092.md) | iteratioin | Medium |
 | 100 | [Same Tree](algorithms/0100.md) | binary tree | Easy |

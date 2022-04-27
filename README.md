@@ -16,6 +16,7 @@ Actively being updated. STAY TUNED!
 | 5 | [Longest Palindromic Substring](algorithms/0005.md) | dp | Medium |
 | 9 | [Palindrome Number](algorithms/0009.md) | n/a | Easy |
 | 10 | [Regular Expression Matching](algorithms/0010.md) | dp | Hard |
+| 14 | [Longest Common Prefix](algorithms/0014.md) | n/a | Easy |
 | 92 | [Reverse Linked List II](algorithms/0092.md) | iteratioin | Medium |
 | 100 | [Same Tree](algorithms/0100.md) | binary tree | Easy |
 | 101 | [Symmetric Tree](algorithms/0101.md) | binary tree | Easy |

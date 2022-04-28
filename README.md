@@ -48,3 +48,4 @@ Actively being updated. STAY TUNED!
 | 968 | [Binary Tree Cameras](algorithms/0968.md) | binary tree | Hard |
 | 1439 | [Find the Kth Smallest Sum of a Matrix With Sorted Rows](algorithms/1439.md) | heap | Hard|
 | 1449 | [Form Largest Integer With Digits That Add up to Target](algorithms/1449.md) | dp | Hard|
+| 1609 | [Even Odd Tree](algorithms/1609.md) | binary tree | Medium |

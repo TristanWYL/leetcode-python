@@ -32,6 +32,7 @@ Actively being updated. STAY TUNED!
 | 300 | [Longest Increasing Subsequence](algorithms/0300.md) | dp | Medium |
 | 322 | [Coin Change](algorithms/0322.md) | dp | Medium |
 | 354 | [Russian Doll Envelopes](algorithms/0354.md) | dp | Hard |
+| 382 | [Linked List Random Node](algorithms/0382.md) | linked list | Medium |
 | 475 | [Heaters](algorithms/0475.md) | bisection | Medium |
 | 494 | [Target Sum](algorithms/0494.md) | backtrack<br>dp | Medium |
 | 509 | [Fibonacci Number](algorithms/0509.md) | iteration | Easy |

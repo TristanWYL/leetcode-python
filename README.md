@@ -25,6 +25,7 @@ Actively being updated. STAY TUNED!
 | 121 | [Best Time to Buy and Sell Stock](algorithms/0121.md) | dp | Easy |
 | 122 | [Best Time to Buy and Sell Stock II](algorithms/0122.md) | dp | Medium |
 | 141 | [Linked List Cycle](algorithms/0141.md) | linked list | Easy |
+| 142 | [Linked List Cycle II](algorithms/0142.md) | linked list | Medium |
 | 206 | [Reverse Linked List](algorithms/0206.md) | linked list | Easy |
 | 226 | [Invert Binary Tree](algorithms/0226.md) | binary tree | Easy |
 | 234 | [Palindrome Linked List](algorithms/0234.md) | linked list | Easy |

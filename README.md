@@ -18,7 +18,8 @@ Actively being updated. STAY TUNED!
 | 9 | [Palindrome Number](algorithms/0009.md) | n/a | Easy |
 | 10 | [Regular Expression Matching](algorithms/0010.md) | dp | Hard |
 | 14 | [Longest Common Prefix](algorithms/0014.md) | n/a | Easy |
-| 92 | [Reverse Linked List II](algorithms/0092.md) | iteratioin | Medium |
+| 43 | [Multiply Strings](algorithms/0043.md) | n/a | Medium |
+| 92 | [Reverse Linked List II](algorithms/0092.md) | n/a | Medium |
 | 100 | [Same Tree](algorithms/0100.md) | binary tree | Easy |
 | 101 | [Symmetric Tree](algorithms/0101.md) | binary tree | Easy |
 | 110 | [Balanced Binary Tree](algorithms/0110.md) | binary tree | Easy |

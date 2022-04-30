@@ -17,6 +17,7 @@ Actively being updated. STAY TUNED!
 | 7 | [Reverse Integer](algorithms/0007.md) | n/a | Medium |
 | 9 | [Palindrome Number](algorithms/0009.md) | n/a | Easy |
 | 10 | [Regular Expression Matching](algorithms/0010.md) | dp | Hard |
+| 12 | [Integer to Roman](algorithms/0012.md) | n/a | Medium |
 | 13 | [Roman to Integer](algorithms/0013.md) | n/a | Easy |
 | 14 | [Longest Common Prefix](algorithms/0014.md) | n/a | Easy |
 | 43 | [Multiply Strings](algorithms/0043.md) | n/a | Medium |

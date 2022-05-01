@@ -13,6 +13,7 @@ Actively being updated. STAY TUNED!
 | # | Title | Categories | Difficulty|
 | --------- | ------- |------- |------- |
 | 1 | [Two Sum](algorithms/0001.md) | iteration and dict | Easy |
+| 3 | [Longest Substring Without Repeating Characters](algorithms/0003.md) | dp | Medium |
 | 5 | [Longest Palindromic Substring](algorithms/0005.md) | dp | Medium |
 | 7 | [Reverse Integer](algorithms/0007.md) | n/a | Medium |
 | 9 | [Palindrome Number](algorithms/0009.md) | n/a | Easy |

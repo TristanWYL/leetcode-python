@@ -22,6 +22,7 @@ Actively being updated. STAY TUNED!
 | 13 | [Roman to Integer](algorithms/0013.md) | n/a | Easy |
 | 14 | [Longest Common Prefix](algorithms/0014.md) | n/a | Easy |
 | 15 | [3Sum](algorithms/0015.md) | n/a | Medium |
+| 16 | [3Sum Closest](algorithms/0016.md) | n/a | Medium |
 | 35 | [Search Insert Position](algorithms/0035.md) | bisection | Easy |
 | 43 | [Multiply Strings](algorithms/0043.md) | n/a | Medium |
 | 92 | [Reverse Linked List II](algorithms/0092.md) | n/a | Medium |

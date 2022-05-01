@@ -21,6 +21,7 @@ Actively being updated. STAY TUNED!
 | 12 | [Integer to Roman](algorithms/0012.md) | n/a | Medium |
 | 13 | [Roman to Integer](algorithms/0013.md) | n/a | Easy |
 | 14 | [Longest Common Prefix](algorithms/0014.md) | n/a | Easy |
+| 35 | [Search Insert Position](algorithms/0035.md) | bisection | Easy |
 | 43 | [Multiply Strings](algorithms/0043.md) | n/a | Medium |
 | 92 | [Reverse Linked List II](algorithms/0092.md) | n/a | Medium |
 | 100 | [Same Tree](algorithms/0100.md) | binary tree | Easy |
@@ -41,7 +42,7 @@ Actively being updated. STAY TUNED!
 | 382 | [Linked List Random Node](algorithms/0382.md) | linked list | Medium |
 | 475 | [Heaters](algorithms/0475.md) | bisection | Medium |
 | 494 | [Target Sum](algorithms/0494.md) | backtrack<br>dp | Medium |
-| 509 | [Fibonacci Number](algorithms/0509.md) | iteration | Easy |
+| 509 | [Fibonacci Number](algorithms/0509.md) | n/a | Easy |
 | 563 | [Binary Tree Tilt](algorithms/0563.md) | binary tree | Easy |
 | 654 | [Maximum Binary Tree](algorithms/0654.md) | binary tree | Medium |
 | 655 | [Print Binary Tree](algorithms/0655.md) | binary tree | Medium |

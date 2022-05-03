@@ -36,6 +36,7 @@ Actively being updated. STAY TUNED!
 | 142  | [Linked List Cycle II](algorithms/0142.md)                                   | linked list        | Medium     |
 | 206  | [Reverse Linked List](algorithms/0206.md)                                    | linked list        | Easy       |
 | 207  | [Course Schedule](algorithms/0207.md)                                        | graph              | Medium     |
+| 210  | [Course Schedule II](algorithms/0210.md)                                     | graph              | Medium     |
 | 226  | [Invert Binary Tree](algorithms/0226.md)                                     | binary tree        | Easy       |
 | 234  | [Palindrome Linked List](algorithms/0234.md)                                 | linked list        | Easy       |
 | 257  | [Binary Tree Paths](algorithms/0257.md)                                      | binary tree        | Easy       |

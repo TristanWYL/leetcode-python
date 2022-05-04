@@ -55,6 +55,7 @@ Actively being updated. STAY TUNED!
 | 707  | [Design Linked List](algorithms/0707.md)                                     | linked list        | Medium     |
 | 719  | [Find K-th Smallest Pair Distance](algorithms/0719.md)                       | bisection          | Hard       |
 | 725  | [Split Linked List in Parts](algorithms/0725.md)                             | linked list        | Medium     |
+| 752  | [Open the Lock](algorithms/0752.md)                                          | n/a                | Medium     |
 | 797  | [All Paths From Source to Target](algorithms/0797.md)                        | graph              | Medium     |
 | 817  | [Linked List Components](algorithms/0817.md)                                 | linked list        | Medium     |
 | 857  | [Minimum Cost to Hire K Workers](algorithms/0857.md)                         | heap               | Hard       |

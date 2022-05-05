@@ -24,6 +24,7 @@ Actively being updated. STAY TUNED!
 | 15   | [3Sum](algorithms/0015.md)                                                   | n/a                | Medium     |
 | 16   | [3Sum Closest](algorithms/0016.md)                                           | n/a                | Medium     |
 | 17   | [Letter Combinations of a Phone Number](algorithms/0017.md)                  | n/a                | Medium     |
+| 20   | [Valid Parentheses](algorithms/0020.md)                                      | n/a                | Easy       |
 | 35   | [Search Insert Position](algorithms/0035.md)                                 | bisection          | Easy       |
 | 43   | [Multiply Strings](algorithms/0043.md)                                       | n/a                | Medium     |
 | 92   | [Reverse Linked List II](algorithms/0092.md)                                 | n/a                | Medium     |

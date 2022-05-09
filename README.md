@@ -29,6 +29,7 @@ Actively being updated. STAY TUNED!
 | 20   | [Valid Parentheses](algorithms/0020.md)                                      | n/a                | Easy       |
 | 22   | [Generate Parentheses](algorithms/0022.md)                                   | n/a                | Medium     |
 | 24   | [Swap Nodes in Pairs](algorithms/0024.md)                                    | linked list        | Medium     |
+| 26   | [Remove Duplicates from Sorted Array](algorithms/0026.md)                    | n/a                | Easy       |
 | 35   | [Search Insert Position](algorithms/0035.md)                                 | bisection          | Easy       |
 | 43   | [Multiply Strings](algorithms/0043.md)                                       | n/a                | Medium     |
 | 92   | [Reverse Linked List II](algorithms/0092.md)                                 | n/a                | Medium     |

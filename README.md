@@ -38,6 +38,7 @@ Actively being updated. STAY TUNED!
 | 101  | [Symmetric Tree](algorithms/0101.md)                                         | binary tree        | Easy       |
 | 110  | [Balanced Binary Tree](algorithms/0110.md)                                   | binary tree        | Easy       |
 | 111  | [Minimum Depth of Binary Tree](algorithms/0111.md)                           | binary tree        | Easy       |
+| 114  | [Flatten Binary Tree to Linked List](algorithms/0114.md)                     | binary tree        | Medium     |
 | 121  | [Best Time to Buy and Sell Stock](algorithms/0121.md)                        | dp                 | Easy       |
 | 122  | [Best Time to Buy and Sell Stock II](algorithms/0122.md)                     | dp                 | Medium     |
 | 141  | [Linked List Cycle](algorithms/0141.md)                                      | linked list        | Easy       |

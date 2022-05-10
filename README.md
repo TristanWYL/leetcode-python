@@ -32,6 +32,7 @@ Actively being updated. STAY TUNED!
 | 26   | [Remove Duplicates from Sorted Array](algorithms/0026.md)                    | n/a                | Easy       |
 | 27   | [Remove Element](algorithms/0027.md)                                         | n/a                | Easy       |
 | 35   | [Search Insert Position](algorithms/0035.md)                                 | bisection          | Easy       |
+| 38   | [Count and Say](algorithms/0038.md)                                          | n/a                | Medium     |
 | 43   | [Multiply Strings](algorithms/0043.md)                                       | n/a                | Medium     |
 | 92   | [Reverse Linked List II](algorithms/0092.md)                                 | n/a                | Medium     |
 | 100  | [Same Tree](algorithms/0100.md)                                              | binary tree        | Easy       |

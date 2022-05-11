@@ -31,6 +31,7 @@ Actively being updated. STAY TUNED!
 | 24   | [Swap Nodes in Pairs](algorithms/0024.md)                                    | linked list        | Medium     |
 | 26   | [Remove Duplicates from Sorted Array](algorithms/0026.md)                    | n/a                | Easy       |
 | 27   | [Remove Element](algorithms/0027.md)                                         | n/a                | Easy       |
+| 31   | [Next Permutation](algorithms/0031.md)                                       | n/a                | Medium     |
 | 35   | [Search Insert Position](algorithms/0035.md)                                 | bisection          | Easy       |
 | 38   | [Count and Say](algorithms/0038.md)                                          | n/a                | Medium     |
 | 43   | [Multiply Strings](algorithms/0043.md)                                       | n/a                | Medium     |

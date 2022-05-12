@@ -36,6 +36,7 @@ Actively being updated. STAY TUNED!
 | 38   | [Count and Say](algorithms/0038.md)                                          | n/a                     | Medium     |
 | 43   | [Multiply Strings](algorithms/0043.md)                                       | n/a                     | Medium     |
 | 46   | [Permutations](algorithms/0046.md)                                           | backtrack<br>DFS<br>BFS | Medium     |
+| 77   | [Combinations](algorithms/0077.md)                                           | backtrack<br>DFS<br>BFS | Medium     |
 | 92   | [Reverse Linked List II](algorithms/0092.md)                                 | n/a                     | Medium     |
 | 100  | [Same Tree](algorithms/0100.md)                                              | binary tree             | Easy       |
 | 101  | [Symmetric Tree](algorithms/0101.md)                                         | binary tree             | Easy       |

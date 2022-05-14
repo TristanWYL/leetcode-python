@@ -34,6 +34,7 @@ Actively being updated. STAY TUNED!
 | 31   | [Next Permutation](algorithms/0031.md)                                       | n/a                     | Medium     |
 | 35   | [Search Insert Position](algorithms/0035.md)                                 | bisection               | Easy       |
 | 38   | [Count and Say](algorithms/0038.md)                                          | n/a                     | Medium     |
+| 39   | [Combination Sum](algorithms/0039.md)                                        | backtrack<br>dp         | Medium     |
 | 43   | [Multiply Strings](algorithms/0043.md)                                       | n/a                     | Medium     |
 | 46   | [Permutations](algorithms/0046.md)                                           | backtrack<br>DFS<br>BFS | Medium     |
 | 47   | [Permutations II](algorithms/0047.md)                                        | backtrack<br>DFS<br>BFS | Medium     |

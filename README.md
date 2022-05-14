@@ -41,6 +41,7 @@ Actively being updated. STAY TUNED!
 | 92   | [Reverse Linked List II](algorithms/0092.md)                                 | n/a                     | Medium     |
 | 100  | [Same Tree](algorithms/0100.md)                                              | binary tree             | Easy       |
 | 101  | [Symmetric Tree](algorithms/0101.md)                                         | binary tree             | Easy       |
+| 104  | [Maximum Depth of Binary Tree](algorithms/0104.md)                           | binary tree             | Easy       |
 | 110  | [Balanced Binary Tree](algorithms/0110.md)                                   | binary tree             | Easy       |
 | 111  | [Minimum Depth of Binary Tree](algorithms/0111.md)                           | binary tree             | Easy       |
 | 114  | [Flatten Binary Tree to Linked List](algorithms/0114.md)                     | binary tree             | Medium     |
